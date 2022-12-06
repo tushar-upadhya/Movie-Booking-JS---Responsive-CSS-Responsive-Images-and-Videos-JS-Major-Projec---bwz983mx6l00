@@ -85,4 +85,5 @@ nav ul {
 }
 
 .selected-seat {
-    borde
+    border: 4px outset rgb(0, 0, 0)
+}
